@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+	<data noupdate="1">
+		<record id="state_co_16_acacías" model="res.city">
+			<field name="state_id" ref="base.state_co_16"></field>
+			<field name="country_id" ref="base.co"></field>
+			<field name="name">AcacíAs</field>
+		</record>
+		<record id="state_co_16_barranca_de_upía" model="res.city">
+			<field name="state_id" ref="base.state_co_16"></field>
+			<field name="country_id" ref="base.co"></field>
+			<field name="name">Barranca De UpíA</field>
+		</record>
+		<record id="state_co_16_cabuyaro" model="res.city">
+			<field name="state_id" ref="base.state_co_16"></field>
+			<field name="country_id" ref="base.co"></field>
+			<field name="name">Cabuyaro</field>
+		</record>
+		<record id="state_co_16_castilla_la_nueva" model="res.city">
+			<field name="state_id" ref="base.state_co_16"></field>
+			<field name="country_id" ref="base.co"></field>
+			<field name="name">Castilla La Nueva</field>
+		</record>
+		<record id="state_co_16_cubarral" model="res.city">
+			<field name="state_id" ref="base.state_co_16"></field>
+			<field name="country_id" ref="base.co"></field>
+			<field name="name">Cubarral</field>
+		</record>
+		<record id="state_co_16_cumaral" model="res.city">
+			<field name="state_id" ref="base.state_co_16"></field>
+			<field name="country_id" ref="base.co"></field>
+			<field name="name">Cumaral</field>
+		</record>
+		<record id="state_co_16_el_calvario" model="res.city">
+			<field name="state_id" ref="base.state_co_16"></field>
+			<field name="country_id" ref="base.co"></field>
+			<field name="name">El Calvario</field>
+		</record>
+		<record id="state_co_16_el_castillo" model="res.city">
+			<field name="state_id" ref="base.state_co_16"></field>
+			<field name="country_id" ref="base.co"></field>
+			<field name="name">El Castillo</field>
+		</record>
+		<record id="state_co_16_fuente_de_oro" model="res.city">
+			<field name="state_id" ref="base.state_co_16"></field>
+			<field name="country_id" ref="base.co"></field>
+			<field name="name">Fuente De Oro</field>
+		</record>
+		<record id="state_co_16_granada" model="res.city">
+			<field name="state_id" ref="base.state_co_16"></field>
+			<field name="country_id" ref="base.co"></field>
+			<field name="name">Granada</field>
+		</record>
+		<record id="state_co_16_guamal" model="res.city">
+			<field name="state_id" ref="base.state_co_16"></field>
+			<field name="country_id" ref="base.co"></field>
+			<field name="name">Guamal</field>
+		</record>
+		<record id="state_co_16_la_macarena" model="res.city">
+			<field name="state_id" ref="base.state_co_16"></field>
+			<field name="country_id" ref="base.co"></field>
+			<field name="name">La Macarena</field>
+		</record>
+		<record id="state_co_16_lejanías" model="res.city">
+			<field name="state_id" ref="base.state_co_16"></field>
+			<field name="country_id" ref="base.co"></field>
+			<field name="name">LejaníAs</field>
+		</record>
+		<record id="state_co_16_mapiripán" model="res.city">
+			<field name="state_id" ref="base.state_co_16"></field>
+			<field name="country_id" ref="base.co"></field>
+			<field name="name">MapiripáN</field>
+		</record>
+		<record id="state_co_16_mesetas" model="res.city">
+			<field name="state_id" ref="base.state_co_16"></field>
+			<field name="country_id" ref="base.co"></field>
+			<field name="name">Mesetas</field>
+		</record>
+		<record id="state_co_16_puerto_concordia" model="res.city">
+			<field name="state_id" ref="base.state_co_16"></field>
+			<field name="country_id" ref="base.co"></field>
+			<field name="name">Puerto Concordia</field>
+		</record>
+		<record id="state_co_16_puerto_gaitán" model="res.city">
+			<field name="state_id" ref="base.state_co_16"></field>
+			<field name="country_id" ref="base.co"></field>
+			<field name="name">Puerto GaitáN</field>
+		</record>
+		<record id="state_co_16_puerto_lleras" model="res.city">
+			<field name="state_id" ref="base.state_co_16"></field>
+			<field name="country_id" ref="base.co"></field>
+			<field name="name">Puerto Lleras</field>
+		</record>
+		<record id="state_co_16_puerto_lópez" model="res.city">
+			<field name="state_id" ref="base.state_co_16"></field>
+			<field name="country_id" ref="base.co"></field>
+			<field name="name">Puerto LóPez</field>
+		</record>
+		<record id="state_co_16_puerto_rico" model="res.city">
+			<field name="state_id" ref="base.state_co_16"></field>
+			<field name="country_id" ref="base.co"></field>
+			<field name="name">Puerto Rico</field>
+		</record>
+		<record id="state_co_16_puerto_yuca" model="res.city">
+			<field name="state_id" ref="base.state_co_16"></field>
+			<field name="country_id" ref="base.co"></field>
+			<field name="name">Puerto Yuca</field>
+		</record>
+		<record id="state_co_16_restrepo" model="res.city">
+			<field name="state_id" ref="base.state_co_16"></field>
+			<field name="country_id" ref="base.co"></field>
+			<field name="name">Restrepo</field>
+		</record>
+		<record id="state_co_16_san_carlos_de_guaroa" model="res.city">
+			<field name="state_id" ref="base.state_co_16"></field>
+			<field name="country_id" ref="base.co"></field>
+			<field name="name">San Carlos De Guaroa</field>
+		</record>
+		<record id="state_co_16_san_juan_de_arama" model="res.city">
+			<field name="state_id" ref="base.state_co_16"></field>
+			<field name="country_id" ref="base.co"></field>
+			<field name="name">San Juan De Arama</field>
+		</record>
+		<record id="state_co_16_san_martín" model="res.city">
+			<field name="state_id" ref="base.state_co_16"></field>
+			<field name="country_id" ref="base.co"></field>
+			<field name="name">San MartíN</field>
+		</record>
+		<record id="state_co_16_villavicencio" model="res.city">
+			<field name="state_id" ref="base.state_co_16"></field>
+			<field name="country_id" ref="base.co"></field>
+			<field name="name">Villavicencio</field>
+		</record>
+		<record id="state_co_16_vistahermosa" model="res.city">
+			<field name="state_id" ref="base.state_co_16"></field>
+			<field name="country_id" ref="base.co"></field>
+			<field name="name">Vistahermosa</field>
+		</record>
+	</data>
+</odoo>
